@@ -11,6 +11,9 @@ HKU CDS 在读，RIC现任新媒体，欢迎合作。
 ## 最近的生活状态
 研究csdiy，研究web3，练琴，定期去信和中心淘唱片，看鲁邦三世，看各种电影，打无畏契约，吃麦当劳，爬太平山。
 
+## 个人博客
+https://neutralmilkzzz.github.io/
+
 
 <!--
 **Neutralmilkzzz/Neutralmilkzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
