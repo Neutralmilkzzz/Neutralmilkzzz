@@ -1,4 +1,16 @@
-## Hi there 👋
+## 个人履历
+进华中学 2018.9 - 2022.7
+
+上海中学 2022.9 - 2025.6
+
+香港大学 2025.9 - now
+
+## 自我绍介
+hku cds 在读，RIC现任新媒体，欢迎合作。
+
+最近的生活状态
+研究csdiy，研究web3，练琴，定期去信和中心淘唱片，打无畏契约，吃麦当劳，爬太平山。
+
 
 <!--
 **Neutralmilkzzz/Neutralmilkzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
