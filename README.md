@@ -1,6 +1,6 @@
 ### Hi there, I'm Isaac 👋
 
-I am a **Computing and Data Science** undergraduate at **The University of Hong Kong (HKU)**, passionate about building decentralized systems and exploring the depths of computer science.
+I am a **Computing and Data Science freshman** at **The University of Hong Kong (HKU)**, passionate about building decentralized systems and exploring the depths of computer science.
 
 #### 🎓 Education
 - **The University of Hong Kong** (2025 - Present)
